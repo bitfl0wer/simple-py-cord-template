@@ -1,2 +1,2 @@
-# simple-py-cord-template
-A simple template with py-cord boilerplate to get you up and running faster.
+# temporality
+Discord bot that auto-deletes messages in set channels after a given period of time.
