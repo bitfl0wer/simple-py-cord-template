@@ -2,7 +2,8 @@
 
 A template that is supposed to reduce the boilerplate you have to write to get a py-cord bot up
 and running. Includes `black` for formatting and `python-dotenv` to support passing the bot token
-via an environment variable.
+via an environment variable. Also has a CodeQL Actions workflow for automatic security vulnerability
+scanning.
 
 ## Starting the bot
 
